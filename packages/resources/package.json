@@ -1,0 +1,28 @@
+{
+  "name": "@initial/resources",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "maoqxm <maoqxm@gmail.com>",
+  "homepage": "https://github.com/maoqxxmm/BlackFilm.GitHub.io#readme",
+  "license": "ISC",
+  "main": "lib/resources.js",
+  "directories": {
+    "lib": "lib",
+    "fonts": "fonts",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "fonts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoqxxmm/BlackFilm.GitHub.io.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/maoqxxmm/BlackFilm.GitHub.io/issues"
+  }
+}
