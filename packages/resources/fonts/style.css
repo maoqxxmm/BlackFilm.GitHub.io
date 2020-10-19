@@ -1,8 +1,9 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
-  font-family: "EBGaramondSC12-Regular";
+  font-family: "TwCenMTStd";
 
-  src: url("./EBGaramondSC12-Regular.woff") format("woff"); /* Modern Browsers */
+  src: url("./TwCenMTStd.woff") format("woff");
+  /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }

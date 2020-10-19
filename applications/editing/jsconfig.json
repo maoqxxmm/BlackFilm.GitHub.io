@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "config/*": ["src/config/*"],
+      "images/*": ["src/images/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
